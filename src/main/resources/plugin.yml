@@ -1,5 +1,5 @@
-name: SP_Database
+name: Database
 version: 1
-main: sperias.gnaris.SPDatabase.SPDatabase
-api-version: 1.19
+main: chn.gnaris.database.Main
+api-version: 1.17
 authors: [ Gnaris ]
