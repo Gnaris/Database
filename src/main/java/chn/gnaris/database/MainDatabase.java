@@ -6,7 +6,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 import java.sql.Connection;
 import java.sql.SQLException;
 
-public class Main extends JavaPlugin {
+public class MainDatabase extends JavaPlugin {
 
     private Database database;
 
