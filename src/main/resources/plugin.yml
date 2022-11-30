@@ -1,5 +1,5 @@
 name: Database
 version: 1
-main: chn.gnaris.database.Main
-api-version: 1.17
+main: chn.gnaris.database.DatabaseAPI
+api-version: 1.19
 authors: [ Gnaris ]
